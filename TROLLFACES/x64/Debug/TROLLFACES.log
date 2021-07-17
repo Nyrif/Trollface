@@ -1,24 +1,2 @@
 ﻿  TROLLFACES.cpp
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(9,5): error C2065: 'CURL': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(9,11): error C2065: 'curl': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(10,5): error C2065: 'CURLcode': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(10,14): error C2146: syntax error: missing ';' before identifier 'res'
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(10,14): error C2065: 'res': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(12,5): error C2065: 'curl': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(12,12): error C3861: 'curl_easy_init': identifier not found
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(13,9): error C2065: 'curl': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(14,26): error C2065: 'curl': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(14,32): error C2065: 'CURLOPT_URL': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(14,9): error C3861: 'curl_easy_setopt': identifier not found
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(16,26): error C2065: 'curl': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(16,32): error C2065: 'CURLOPT_FOLLOWLOCATION': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(16,9): error C3861: 'curl_easy_setopt': identifier not found
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(19,9): error C2065: 'res': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(19,33): error C2065: 'curl': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(19,15): error C3861: 'curl_easy_perform': identifier not found
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(21,13): error C2065: 'res': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(21,20): error C2065: 'CURLE_OK': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(23,36): error C2065: 'res': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(23,17): error C3861: 'curl_easy_strerror': identifier not found
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(26,27): error C2065: 'curl': undeclared identifier
-C:\Users\asher\source\repos\TROLLFACES\TROLLFACES\TROLLFACES.cpp(26,9): error C3861: 'curl_easy_cleanup': identifier not found
+  TROLLFACES.vcxproj -> C:\Users\asher\source\repos\Trollface\x64\Debug\TROLLFACES.exe
